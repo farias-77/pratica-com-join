@@ -61,27 +61,3 @@ JOIN companies
 ON companies.id = experiences."companyId"
 WHERE users.id = 50
 AND experiences."endDate" IS NULL;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
